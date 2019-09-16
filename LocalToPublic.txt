@@ -1,0 +1,5 @@
+To convert localhost server from local to public, use use seneo.net autossh commands in linux
+
+OR
+
+use ngrok http 5000

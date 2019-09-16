@@ -1,0 +1,9 @@
+#If ever get error of a module library installed but cannot install new version because cannot uninstall previous one, do the following command
+
+
+pip install --ignore-installed ${Package Name}
+
+Examples below:
+pip install --ignore-installed pyasn1
+
+pip install --ignore-installed dialogflow
